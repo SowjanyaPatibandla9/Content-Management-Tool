@@ -1,0 +1,17 @@
+body
+{
+background-color:lightgreen
+}
+
+h1
+{
+color:purple
+}
+
+ /* Style the drop zone */
+    .drop-zone {
+      border: 2px dashed #cac;
+      padding: 20px;
+      text-align: center;
+      font-size: 18px;
+    }
